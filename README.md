@@ -5,14 +5,7 @@
 Me chamo Bernardo Medeiros Duarte, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFSC, com o curso técnico em informática. Atualmente, estou cursando Ciências da computação na UFSC. Sou apaixonada por tecnologia.
 
 
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+ 
 
 ---
 
