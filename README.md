@@ -72,9 +72,9 @@ Me chamo Bernardo Medeiros Duarte, tenho 18 anos e sou natural de Santa Catarina
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
 <br/>
-
+<br/>
+<br/>
 
   <summary><h2 align="left">📘 My Top Open Source Projects</h2></summary>
 
