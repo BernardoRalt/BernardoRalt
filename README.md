@@ -1,31 +1,10 @@
 # 👩🏻‍💻 Bernardo Medeiros
 
-**`Desenvolvedor Java Backend/Banco de Dados`**
+**`Desenvolvedor Java Backend/Frontend/Banco de Dados`**
 
 Me chamo Bernardo Medeiros Duarte, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFSC, com o curso técnico em informática. Atualmente, estou cursando Ciências da computação na UFSC. Sou apaixonada por tecnologia.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+
     <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
@@ -65,14 +44,6 @@ Me chamo Bernardo Medeiros Duarte, tenho 18 anos e sou natural de Santa Catarina
 />
 
 
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
 
 <img 
     align="left" 
