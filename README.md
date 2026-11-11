@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bernardo Medeiros
+#  Bernardo Medeiros
 
 **`Desenvolvedor Java Backend/Frontend/Banco de Dados`**
 
