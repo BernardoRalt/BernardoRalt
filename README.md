@@ -79,7 +79,7 @@ Me chamo Bernardo Medeiros Duarte, tenho 18 anos e sou natural de Santa Catarina
   <summary><h2 align="left">📘 top Repositórios contribuidos </h2></summary>
 
 
-<a href="https://github.com/braianhenri/Old-Kiri"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/braianhenri/Old-Kiri"><img width="278" src="https://denvercoder1-github-readme-stats-2.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Jogo de PI Old-Kiri"></a>
 <br/>
 <br/>
 
