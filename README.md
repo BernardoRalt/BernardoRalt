@@ -22,3 +22,26 @@ Me chamo Bernardo Medeiros Duarte, tenho 18 anos e sou natural de Santa Catarina
 
 ## 📘 Projetos em destaque
 
+<div align="center">
+  <a href="https://github.com/braianhenri/Old-Kiri">
+    <img
+      width="280"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=braianhenri&repo=Old-Kiri&theme=react&bg_color=1F222E&title_color=FFFFFF&text_color=CCCCCC&hide_border=true"
+      alt="Old-Kiri"
+    />
+  </a>
+  <a href="https://github.com/BernardoRalt/Atividade_lanchonete">
+    <img
+      width="280"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoRalt&repo=Atividade_lanchonete&theme=react&bg_color=1F222E&title_color=FFFFFF&text_color=CCCCCC&hide_border=true"
+      alt="Atividade_lanchonete"
+    />
+  </a>
+  <a href="https://github.com/BernardoRalt/Sustenta-mais-">
+    <img
+      width="280"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoRalt&repo=Sustenta-mais-&theme=react&bg_color=1F222E&title_color=FFFFFF&text_color=CCCCCC&hide_border=true"
+      alt="Sustenta Mais"
+    />
+  </a>
+</div>
