@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java Backend/Frontend/Banco de Dados`**
 
-Me chamo Bernardo Medeiros Duarte, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFSC, com o curso técnico em Informática. Atualmente, estou cursando Ciência da Computação na UFSC. Sou apaixonado por tecnologia.
+Me chamo Bernardo Medeiros Duarte, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFSC, com o curso técnico em Informática. Sou apaixonado por tecnologia.
 
 ---
 
